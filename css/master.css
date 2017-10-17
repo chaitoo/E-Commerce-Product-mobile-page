@@ -43,7 +43,8 @@ ul.nav-right {
 }
 
 .nav-logo img {
-  width: 90%;
+  width: 50%;
+  padding-top: 15%;
 }
 
 .content {
